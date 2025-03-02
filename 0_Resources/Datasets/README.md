@@ -1,4 +1,4 @@
-# 💿 Datasets
+# Datasets
 
 This folder is a consolidated list of datasets used throughout the course.
 
@@ -19,7 +19,7 @@ Similar to `data_jobs_salary_all.xlsx`, this file provides a breakdown of salary
 
 ---
 
-### 4. [`📂 data_jobs_monthly`](data_jobs_monthly/)
+### 4. [`data_jobs_monthly`](data_jobs_monthly/)
 This folder contains data science job postings aggregated on a monthly basis. Each row represents job listings for a specific month, providing insights into trends over time.
 
 ---
