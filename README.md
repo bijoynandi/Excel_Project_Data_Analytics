@@ -1,6 +1,6 @@
 # My Excel Data Analytics Project
 
-I am providing all my different project works in this repository.
+I am providing all the different project works in this repository.
 
 ## Salary Dashboard
 
