@@ -16,4 +16,3 @@ In this project you can find out to understand what are the top skills and which
 
 ![Screenshot 2024-12-24 041551](https://github.com/user-attachments/assets/7b2836ab-9f7f-4880-9e57-9fb5288881ab)
 ![Screenshot 2024-12-24 041636](https://github.com/user-attachments/assets/b29924bb-db41-46b2-a693-9cdf02e46d88)
-
