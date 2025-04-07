@@ -1,4 +1,4 @@
-# My Excel Data Analytics Project
+# Excel Data Analytics Project
 
 Here is all the different project works in this repository.
 
