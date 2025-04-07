@@ -62,4 +62,4 @@ I would like to express my sincere gratitude to [Luke Barousse](https://github.c
 
 ## Contact
 
-If you have any questions or would like to connect, feel free to reach out to me at [bijoynandi31@gmail.com](mailto:bijoynandi31@gmail.com). I'm always open to discussions and collaborations.
+If you have any questions or would like to connect, feel free to reach out to me at [bijoynandi31@gmail.com](mailto:bijoynandi31@gmail.com). I'm always open to discussions and collaborations. Happy analyzing!
